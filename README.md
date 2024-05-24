@@ -26,7 +26,7 @@ The development of the EchoNav system is complete! This includes:
 - Training the models with relevant datasets.
 - Extensive unit, integration, and product testing.
 
-## I hope EchoNav empowers you to navigate your world with greater confidence!
+### I hope EchoNav empowers you to navigate your world with greater confidence!
 
 ## License
 
