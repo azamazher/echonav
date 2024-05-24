@@ -30,4 +30,4 @@ The development of the EchoNav system is complete! This includes:
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE.txt)
